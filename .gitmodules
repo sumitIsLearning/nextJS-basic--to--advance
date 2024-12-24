@@ -1,0 +1,6 @@
+[submodule "nextJS_01_basics"]
+	path = nextJS_01_basics
+	url = https://github.com/sumitIsLearning/nextJS_01_basics.git
+[submodule "01_basics"]
+	path = 01_basics
+	url = https://github.com/sumitIsLearning/nextJS_01_basics.git
