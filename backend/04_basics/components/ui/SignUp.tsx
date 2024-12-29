@@ -15,7 +15,10 @@ export default function SignUpCard() {
       password,
     });
 
-    router.push("/signin");
+    if(response.status === 200) {
+      router.push("/signin");
+    }
+
   }
 
   return (
